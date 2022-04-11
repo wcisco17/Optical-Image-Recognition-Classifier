@@ -1,5 +1,7 @@
 # Optical-Image-Recognition-Classifier
 
+## CST3170 Artificial Intelligence (https://www.cwa.mdx.ac.uk/cst3170/coursework/CourseWork2.html)
+
 ## Nearest Neighbor
 
 Using the Optical Handwritten Digit data set I produced a solution which satisfies the baseline - 
